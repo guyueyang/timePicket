@@ -1,1 +1,1 @@
-include ':app', ':TimePicketLib'
+include ':app', ':TimePicketLib', ':timepicketlibs'

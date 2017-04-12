@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/TimePicketLib/timepicket-timepicket.iml" filepath="$PROJECT_DIR$/TimePicketLib/timepicket-timepicket.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/timepicket.iml" filepath="$PROJECT_DIR$/timepicket.iml" />
+      <module fileurl="file://$PROJECT_DIR$/timepicketlibs/timepicketlibs.iml" filepath="$PROJECT_DIR$/timepicketlibs/timepicketlibs.iml" />
     </modules>
   </component>
 </project>
